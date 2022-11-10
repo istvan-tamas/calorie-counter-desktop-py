@@ -1,1 +1,1 @@
-Calorie counter app in a desktop version using Tkinter and SQLite
+Desktop version of the tracalorie counter app using python and tkinter.
